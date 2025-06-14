@@ -45,6 +45,8 @@ Launch your own Linux instance with Apache HTTP server on AWS
    
 # Hand-in
 
+Here's a video of the hand-in process: https://www.youtube.com/watch?v=cV3I9sJXcLI
+
 1. Follow all the instructions/videos from above to setup your server, including putting **`test.sh`** inside the 
 `/usr/lib/cgi-bin/` directory.
 
